@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+markdown: kramdown
 title: Ben Augenbraun
 description: Ben Augenbraun's personal website. Currently a PhD student at Harvard University studying ultracold molecules.
 logo: /assets/img/Augenbraun.jpg
